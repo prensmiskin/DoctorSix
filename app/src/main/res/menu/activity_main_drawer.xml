@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    app:itemTextAppearance="@style/MenuItems"
+    >
+
+    <group android:checkableBehavior="single"
+        android:menuCategory="system"
+
+        >
+        <item android:title="Ağız, Yüz ve Çene Cerrahisi">
+            <menu>
+
+                <item
+                    android:id="@+id/action_settings"
+                    android:icon="@android:drawable/btn_star_big_on"
+                    android:title="Ağız, Yüz ve Çene Cerrahisi" />
+                <item
+                    android:id="@+id/nav_gallery"
+                    android:icon="?attr/panelBackground"
+                    android:title="Çene - Yüz Bölgesi İskeletsel Deformitelerde Tedavi" />
+                <item
+                    android:id="@+id/nav_slideshow"
+                    android:icon="?attr/panelBackground"
+                    android:title="Yüz yaralanmaları" />
+                <item
+                    android:id="@+id/nav_tools"
+                    android:icon="?attr/panelBackground"
+                    android:title="Zigomatikomaksiller kompleks kırığı" />
+                <item
+                    android:id="@+id/nav_tooslsss"
+                    android:icon="?attr/panelBackground"
+                    android:title="Süpernümerer Diş" />
+                <item
+                    android:id="@+id/nav_toosdslss"
+                    android:icon="?attr/panelBackground"
+                    android:title="Carmalt glandları" />
+                <item
+                    android:id="@+id/nav_toosslss"
+                    android:icon="?attr/panelBackground"
+                    android:title="Apikal kök abseleri" />
+            </menu>
+        </item>
+
+    </group>
+    <group android:checkableBehavior="single"
+    android:menuCategory="system"
+
+    >
+    <item android:title="1111">
+        <menu>
+
+            <item
+                android:id="@+id/nav_homes"
+                android:icon="@android:drawable/btn_star_big_on"
+                android:title="Ağız, Yüz ve Çene Cerrahisi" />
+            <item
+                android:id="@+id/nav_gallerys"
+                android:icon="?attr/panelBackground"
+                android:title="Çene - Yüz Bölgesi İskeletsel Deformitelerde Tedavi" />
+            <item
+                android:id="@+id/nav_slideshows"
+                android:icon="?attr/panelBackground"
+                android:title="Yüz yaralanmaları" />
+            <item
+                android:id="@+id/nav_toolss"
+                android:icon="?attr/panelBackground"
+                android:title="Zigomatikomaksiller kompleks kırığı" />
+        </menu>
+    </item>
+
+</group>
+    <group android:checkableBehavior="single"
+        android:menuCategory="system"
+
+        >
+        <item android:title="1111">
+            <menu>
+
+                <item
+                    android:id="@+id/nav_homesa"
+                    android:icon="?attr/panelBackground"
+                    android:title="Ağız, Yüz ve Çene Cerrahisi" />
+                <item
+                    android:id="@+id/nav_gallerysa"
+                    android:icon="@android:drawable/stat_notify_chat"
+                    android:title="Çene - Yüz Bölgesi İskeletsel Deformitelerde Tedavi" />
+                <item
+                    android:id="@+id/nav_slideshowsa"
+                    android:icon="?attr/panelBackground"
+                    android:title="Yüz yaralanmaları" />
+                <item
+                    android:id="@+id/nav_toolssa"
+                    android:icon="?attr/panelBackground"
+                    android:title="Zigomatikomaksiller kompleks kırığı" />
+            </menu>
+        </item>
+
+    </group>
+
+
+
+
+
+</menu>

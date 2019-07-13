@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".First"
+    android:orientation="vertical"
+    android:id="@+id/bir">
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/button"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dentofasiyal deformite"
+                    android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ssss"
+                android:id="@+id/text"
+                android:textSize="20sp"/>
+                <Button
+                    android:id="@+id/legcdurlyvideo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Dumbbell Fly "
+                    android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <Button
+                android:id="@+id/legcurlydvideo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dumbbell Fly "
+                android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <Button
+                android:id="@+id/legcurlyvidedo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dumbbell Fly "
+                android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <Button
+                android:id="@+id/legcurlyvidseo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dumbbell Fly "
+                android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <Button
+                android:id="@+id/legcurlyvideso"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dumbbell Fly "
+                android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <Button
+                android:id="@+id/legcurlyvaideos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dumbbell Fly "
+                android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+                <Button
+                android:id="@+id/legcurlsyvideos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Dumbbell Fly "
+                android:textSize="20sp"
+                    android:background="@color/colorPrimary"
+                    android:textColor="@android:color/black"/>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/cene"
+                    android:adjustViewBounds="true"/>
+
+
+
+
+                <WebView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:ignore="WebViewLayout"
+                    android:id="@+id/webview"/>
+
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="@string/cene"
+    android:textSize="20sp"/>
+
+
+            </LinearLayout>
+
+
+
+
+        </ScrollView>
+
+
+
+
+
+
+
+
+
+
+</FrameLayout>

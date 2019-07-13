@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">DoctorSix</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.stio@android.com</string>
+    <string name="nav_header_desc">Navigation heudader</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="cene">Çene - Yüz Bölgesi İskeletsel Deformitelerde Tedavi \n\n\
+        Dentofasiyal deformite;
+        normal yüz oranları ve dişsel yapılardan hafif veya şiddetli derecede gelişen sapma olarak tanımlanmaktadır.\n\n
+        Maksillofasiyal bölgeye ait deformiteler, konjenital ve kazanılmış deformiteler olmak üzere iki gruba ayrılırlar.
+        Malformasyonlar, deformiteler ve bozukluklar konjenital deformitelerin alt gruplarını oluşturmaktadır. fiiddetli
+        konjenital deformitelere genelde sendromlar ile eşlik etmektedir. \n\nKazanılmış deformiteler travmalar, ateşli silah
+        yaralanmaları, enfeksiyonları, tümör rezeksiyonları ve sistemik tutulumlu hastalıklar sonucu oluşurlar .\n\n
+        Maksillofasiyal bozuklukların en sık gö- rüleni kuşkusuz maloklüzyon ile karakteristik iskeletsel dentofasiyal deformitelerdir.
+        Dentofasiyal deformiteler her ne kadar gelişimsel olup, tek bir sebepten kaynaklanıyor olsa da bir çok faktörün birbiri
+        ile kompleks etkileşmeleri sonucu ortaya çıkmaktadır. \n\nBireyin kötü oral alışkanlıkları, ağız solunumu, hatalı dental
+        uygulamalar, çene travmaları ve dudak-damak yarığı onarımları vb. sonrasında sekonder deformiteler gelişmektedir.
+        \n\n\n\n\n\n
+
+
+
+    </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
